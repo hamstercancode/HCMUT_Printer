@@ -1,4 +1,4 @@
-# HCMUT_Printer# CNPM_HCMUT_SSPS
+# HCMUT_Printer
 Welcome to our HCMUT_SSPS.
 
 ## Overview
